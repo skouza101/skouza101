@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 
 - 🌱 Currently exploring **Next.js 14 and AI-powered apps**
 - 💻 Stack: **JavaScript, TypeScript, React, Node.js, Express, MongoDB**
-- 🔗 Check out my portfolio: [marwaneoraiche.github.io](https://marwaneoraiche.github.io/)
+- 🔗 Check out my portfolio: [skouza101.github.io](https://skouza101.github.io/)
 
 <!-- ==================== Skills ==================== -->
 ## 🛠 Skills
@@ -30,8 +30,8 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 | Project | Description | Link |
 |---------|-------------|------|
 | Portfolio Website | My personal portfolio built with React | [View](https://marwaneoraiche.github.io/) |
-| E-commerce App | Full stack shopping app with Node.js & MongoDB | [View](https://github.com/marwaneoraiche/ecommerce-app) |
-| Blog Platform | Blog platform using React & Firebase | [View](https://github.com/marwaneoraiche/blog-platform) |
+| E-commerce App | Full stack shopping app with next.js & Node.js & postgresql | [View](https://browser-e-ecommerce.vercel.app) |
+| Todo list app| Todo list application built with **Next.js** and React | [View](https://todo-list-app-nextjs.vercel.app) |
 
 <!-- ==================== GitHub Stats ==================== -->
 ## 📊 GitHub Stats
