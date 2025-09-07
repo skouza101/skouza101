@@ -1,8 +1,8 @@
 <!-- ==================== Header ==================== -->
 <div align="center">
   <h1>Hi, I'm Marwane 👋</h1>
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+   <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
   </h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
 </div>
