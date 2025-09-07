@@ -38,8 +38,8 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 <!-- ==================== GitHub Stats ==================== -->
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marwaneoraiche&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaneoraiche&layout=compact&theme=radical&langs_count=8" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=skouza101&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skouza101&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <!-- ==================== Contact ==================== -->
