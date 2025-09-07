@@ -1,7 +1,9 @@
 <!-- ==================== Header ==================== -->
 <div align="center">
   <h1>Hi, I'm Marwane 👋</h1>
-  <p>Full Stack Developer | React, Node.js, MongoDB | Open Source Enthusiast</p>
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer+|+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+  </h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
 </div>
 
@@ -37,7 +39,7 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 ## 📊 GitHub Stats
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marwaneoraiche&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaneoraiche&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaneoraiche&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <!-- ==================== Contact ==================== -->
