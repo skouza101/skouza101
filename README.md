@@ -2,17 +2,17 @@
 <div align="center">
   <h1>Hi, I'm Marwane 👋</h1>
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer+|+React+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
   </h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
 </div>
 
 <!-- ==================== About Me ==================== -->
 ## About Me
-I'm a passionate **Full Stack Developer** building scalable web applications and learning new technologies every day. I love working on open-source projects and contributing to the developer community.
+I'm a passionate **Full Stack Developer** building scalable web applications and exploring new technologies. I enjoy contributing to open-source projects and sharing knowledge with the developer community.
 
 - 🌱 Currently exploring **Next.js 14 and AI-powered apps**
-- 💻 Stack: **JavaScript, TypeScript, React, Node.js, Express, MongoDB**
+- 💻 Stack: **JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB**
 - 🔗 Check out my portfolio: [skouza101.github.io](https://skouza101.github.io/)
 
 <!-- ==================== Skills ==================== -->
@@ -21,8 +21,10 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
@@ -31,9 +33,9 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 ## 🚀 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Portfolio Website | My personal portfolio built with React | [View](https://marwaneoraiche.github.io/) |
-| E-commerce App | Full stack shopping app with next.js & Node.js & postgresql | [View](https://browser-e-ecommerce.vercel.app) |
-| Todo list app| Todo list application built with **Next.js** and React | [View](https://todo-list-app-nextjs.vercel.app) |
+| Portfolio Website | My personal portfolio built with React | [View](https://skouza101.github.io/) |
+| E-commerce App | Full stack shopping app with **Next.js, Node.js & PostgreSQL** | [View](https://browser-e-ecommerce.vercel.app) |
+| Todo List App | Todo list application built with **Next.js & React** | [View](https://todo-list-app-nextjs.vercel.app) |
 
 <!-- ==================== GitHub Stats ==================== -->
 ## 📊 GitHub Stats
