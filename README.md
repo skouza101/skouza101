@@ -1,9 +1,7 @@
 <!-- ==================== Header ==================== -->
 <div align="center">
   <h1>Hi, I'm Marwane 👋</h1>
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
-  </h2>
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
 </div>
 
@@ -46,9 +44,9 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 
 <!-- ==================== Contact ==================== -->
 ## ✉️ Contact
-- Email: [you@example.com](mailto:you@example.com)  
+- Email: [skouza.101@gmail.com](mailto:skouzq.101@gmail.com)  
 - LinkedIn: [linkedin.com/in/marwaneoraiche](https://linkedin.com/in/marwaneoraiche)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Twitter: [@skouza101](https://x.com/skouza_101)
 
 ---
 
