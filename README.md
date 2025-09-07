@@ -33,7 +33,7 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 ## 🚀 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Portfolio Website | My personal portfolio built with React | [View](https://skouza101.github.io/) |
+| Portfolio Website | My personal portfolio built with React | [View](https://skouza101.github.io/PortFolio) |
 | E-commerce App | Full stack shopping app with **Next.js, Node.js & PostgreSQL** | [View](https://browser-e-ecommerce.vercel.app) |
 | Todo List App | Todo list application built with **Next.js & React** | [View](https://todo-list-app-nextjs.vercel.app) |
 
