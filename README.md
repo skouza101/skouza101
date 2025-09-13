@@ -37,6 +37,7 @@ I'm a passionate **Full Stack Developer** building scalable web applications and
 | E-commerce App | Full stack shopping app with **Next.js, Node.js & PostgreSQL** | [View](https://browser-e-ecommerce.vercel.app) |
 | Todo List App | Todo list application built with **Next.js & React** | [View](https://todo-list-app-nextjs.vercel.app) |
 | Syborg Gaming Hub | A modern React-powered gaming platform featuring live streams. | [View](https://syborgame.vercel.app) |
+| My Blog | A fullstack blog application built with Next.js, Prisma ORM, and PostgreSQL. | [View](https://myblog-two-weld.vercel.app/) |
 
 <!-- ==================== GitHub Stats ==================== -->
 ## 📊 GitHub Stats
