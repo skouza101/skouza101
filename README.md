@@ -58,8 +58,6 @@ I'm a **Full Stack Developer** passionate about building robust web applications
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skouza101&show_icons=true&theme=radical&count_private=true" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skouza101&layout=compact&theme=radical&langs_count=8" height="180" alt="top languages" />
   
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skouza101&theme=radical" height="180" alt="streak stats" />
