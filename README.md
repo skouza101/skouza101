@@ -2,6 +2,9 @@
   <h1>Hi there, I'm Marwane</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=35b3e6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+React+Enthusiast;Building+Scalable+Apps" alt="Typing SVG" />
+   <br />
+   <hr />
+   <br />
   <p>
     <a href="https://linkedin.com/in/marwaneoraiche">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
