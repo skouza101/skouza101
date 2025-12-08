@@ -36,7 +36,7 @@ I'm a **Full Stack Developer** passionate about building robust web applications
 | **📝 My Blog** | Built with **Next.js & Prisma ORM** | [View](https://myblog-two-weld.vercel.app/) |
 | **✅ Todo List** | Task manager using **Next.js & React** | [View](https://todo-list-app-nextjs.vercel.app) |
 | **🌐 Portfolio** | Personal showcase site | [View](https://my-portfolio-one-rosy-10.vercel.app/) |
-| **Apple-style website** | Apple-style website with React, Three.js, GSAP and TailwindCSS.| [View](https://6937626b28f80e2612f4ae1c--thunderous-khapse-a143c0.netlify.app/) |
+| **🍎Apple-style website** | Apple-style website with React, Three.js, GSAP and TailwindCSS.| [View](https://6937626b28f80e2612f4ae1c--thunderous-khapse-a143c0.netlify.app/) |
 
 <br />
 
